@@ -6,7 +6,7 @@ Contains CSS animations.
 Developed for mobile and desktop.
 
 # Table of content
-Installation
+[Installation]
 
 
 
